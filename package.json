@@ -23,8 +23,6 @@
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26",
-    "@types/bootstrap-datepicker": "0.0.12",
-    "@types/jquery": "^1.10.34",
     "bootstrap": "^3.0.0",
     "bootstrap-datepicker": "^1.7.1",
     "bootstrap-datepicker-year-offset": "^1.0.8"
@@ -38,6 +36,8 @@
     "@types/node": "~8.9.4",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
+    "@types/bootstrap-datepicker": "0.0.12",
+    "@types/jquery": "^1.10.34",
     "codelyzer": "~4.5.0",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",

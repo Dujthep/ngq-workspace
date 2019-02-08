@@ -58,9 +58,15 @@
               "projects/ngq-tester/src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css",
               "projects/ngq-tester/src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap-datepicker-year-offset/dist/js/bootstrap-datepicker-year-offset.js",
+              "node_modules/bootstrap-datepicker/dist/locales/bootstrap-datepicker.th.min.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
