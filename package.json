@@ -22,7 +22,12 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+    "@types/bootstrap-datepicker": "0.0.12",
+    "@types/jquery": "^1.10.34",
+    "bootstrap": "^3.0.0",
+    "bootstrap-datepicker": "^1.7.1",
+    "bootstrap-datepicker-year-offset": "^1.0.8"
   },
   "devDependencies": {
     "@angular/cli": "~7.3.0",
